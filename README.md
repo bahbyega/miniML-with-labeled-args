@@ -28,7 +28,7 @@ Author: Denis Porsev, den.porsev@gmail.com
 - Functions: basic, anonymous, recursive, closures; partial application is available
 - Labeled and optional arguments
 
-You can see these features in use in `demo/demoSingle.t`
+You can see these features in use in [demos/demoSingle.t](demos/demoSingle.t)
 
 #### Possible language extensions:
 - Unary operators, pattern matching, option types
